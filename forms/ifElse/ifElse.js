@@ -1,4 +1,4 @@
-
+/*
 // message and state abbreviation arrays
 let messages = ['wear a warm coat, hat, scarf and gloves.', 'wear a warm coat, but you won\'t need a hat, scarf or gloves.', 'wear a light jacket and smile!', 'wear a less heavy coat.', 'Oops, something happened. Please try again.']
 let stateName = ['NE', 'FL']
@@ -35,3 +35,4 @@ if (state.toUpperCase() == stateName[0] && temp < 32) {
 } else {
     NSB.MsgBox(messages[4])
 }
+*/
